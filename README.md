@@ -1,5 +1,5 @@
 # spring-validation-demo
-### 主要包含4个部分
+### validation demo主要包含4个部分内容
 ##### 
 
 1. 使用validation-api结合spring的method validation实现请求参数的校验
